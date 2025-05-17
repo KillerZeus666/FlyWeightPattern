@@ -6,8 +6,6 @@ Este proyecto demuestra el uso del **Patrón de Diseño Flyweight** en Java para
 
 ## 📁 Estructura del Proyecto
 
-## 📁 Estructura del Proyecto
-
 ```
 com.pattern.demo
 │
