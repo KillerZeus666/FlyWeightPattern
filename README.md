@@ -6,17 +6,22 @@ Este proyecto demuestra el uso del **Patrón de Diseño Flyweight** en Java para
 
 ## 📁 Estructura del Proyecto
 
+## 📁 Estructura del Proyecto
+
+```
 com.pattern.demo
 │
 ├── flyweight
-│ └── FlyweightMain.java # Clase principal, ejecuta la creación de listas
+│   └── FlyweightMain.java         # Clase principal, ejecuta la creación de listas
 │
 └── implementacion
-├── Artista.java # Clase con datos del artista
-├── Cancion.java # Clase que representa una canción (con contenido simulado)
-├── FabricaArtistas.java # Flyweight Factory para artistas
-├── FabricaCanciones.java # Flyweight Factory para canciones
-└── ListaReproduccion.java # Clase que gestiona listas de reproducción
+    ├── Artista.java               # Clase con datos del artista
+    ├── Cancion.java               # Clase que representa una canción (con contenido simulado)
+    ├── FabricaArtistas.java       # Flyweight Factory para artistas
+    ├── FabricaCanciones.java      # Flyweight Factory para canciones
+    └── ListaReproduccion.java     # Clase que gestiona listas de reproducción
+```
+
 
 
 
