@@ -41,22 +41,24 @@ Listas Creadas 410000
 Finalizado 100%
 Listas Creadas 4100000
 Memoria Usada => 1760 MB
-🎯 Objetivo del Proyecto
+```
+
+## 🎯 Objetivo del Proyecto
 Simular la creación de millones de objetos reutilizando los que ya existen (mismo nombre de canción o artista), ahorrando memoria mediante el patrón Flyweight.
 
-🧠 Conceptos Clave
+## 🧠 Conceptos Clave
 Flyweight Pattern: Reutiliza objetos compartidos para reducir consumo de memoria.
 
 Memoria optimizada: Aunque se crean millones de listas, solo se instancian una cantidad limitada de canciones/artistas.
 
 Comparación activable: Puedes deshabilitar el uso del patrón cambiando la variable HabilitarFlyweight en FabricaCanciones.
 
-🛠 Personalización
+## 🛠 Personalización
 Puedes cambiar el comportamiento del patrón en:
 
 
 public static boolean HabilitarFlyweight = true; // false para comparar sin Flyweight
-📌 Créditos
+## 📌 Créditos
 Autor original: Fabrizio Bolaño
 
 Adaptado y ejecutado por: Katheryn Sofia Guasca
