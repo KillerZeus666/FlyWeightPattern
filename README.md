@@ -34,9 +34,6 @@ javac com/pattern/demo/**/*.java
 java com.pattern.demo.flyweight.FlyweightMain
 La consola mostrará el avance del proceso de creación de listas, como por ejemplo:
 
-python-repl
-Copy
-Edit
 Proceso de creación de listas de reproducción iniciado...
 Finalizado 10%
 Listas Creadas 410000
